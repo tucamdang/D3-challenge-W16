@@ -2,6 +2,8 @@
 
 ![giphy](https://user-images.githubusercontent.com/99168697/173523840-56a546fa-6c2b-4130-b396-1a94d742196a.gif)
 
+Link to visit: https://tucamdang.github.io/D3-challenge-W16/
+
 In this task, we are assumed as a data visualisation position for a major metro paper. Analysing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 Data set includes data on rates of income, obesity, poverty, etc.
 
